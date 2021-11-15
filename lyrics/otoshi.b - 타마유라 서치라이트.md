@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=LxZiWwrbz-U
+[본가 (Youtube)](https://www.youtube.com/watch?v=LxZiWwrbz-U)
 
 BMS 이벤트 [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_def&num=19&event=137) 참가 작품입니다.
 
@@ -6,7 +6,7 @@ BMS 이벤트 [BOFXVII](https://manbow.nothing.sh/event/event.cgi?action=More_de
 * 작사/보컬: [뮤이](https://twitter.com/mayuminomoto)님
 * BGA: [tolz](https://twitter.com/to12lz)님, [하시타카](https://twitter.com/Hstk_Mega)님
 
-## 가사 (한국어 로컬라이징)
+## 가사
 
 기다렸어요 점심시간!<br/>
 뭐 하고 놀지?
@@ -103,5 +103,5 @@ Let’s go!
 
 ## 주석
 
-1. 運んで Journey -> 여행 -> 지도를 펼치는? -> 펼치다
+1. 運んで Journey -> 여행을 진행시킨다? -> 지도를 펼치는? -> 펼치다
 2. 恥ずかしくてはぬかむ -> 뭔가 역전앞 같은 느낌이라 적당히 적음
